@@ -3,8 +3,22 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Cardano Token Metadata Registry
+  - name: API (All properties)
+    url: https://tokens.cardano.org/metadata/4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b95779726d73746f6e65
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: API (Specific property)
+    url: https://tokens.cardano.org/metadata/4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b95779726d73746f6e65/properties/decimals
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: API (Batch)
     url: https://tokens.cardano.org/metadata/query
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "subjects": [""], "properties": ["decimals","ticker"]  }'
     maxResponseTime: 2000
     expectedStatusCodes:
       - 204
