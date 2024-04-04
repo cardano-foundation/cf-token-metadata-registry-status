@@ -4,15 +4,15 @@ repo: cf-token-metadata-registry-status # The name of this repository
 
 sites:
   - name: API (All properties)
-    url: https://tokens.cardano.org/metadata/4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b95779726d73746f6e65
+    url: https://tokens.cardano.org/metadata/x
     maxResponseTime: 2000
     expectedStatusCodes:
-      - 200
+      - 204
   - name: API (Specific property)
-    url: https://tokens.cardano.org/metadata/4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b95779726d73746f6e65/properties/decimals
+    url: https://tokens.cardano.org/metadata/x/properties/decimals
     maxResponseTime: 2000
     expectedStatusCodes:
-      - 200
+      - 204
   - name: API (Batch)
     url: https://tokens.cardano.org/metadata/query
     method: POST
