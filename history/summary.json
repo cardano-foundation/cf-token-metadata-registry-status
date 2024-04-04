@@ -1,7 +1,7 @@
 [
   {
     "name": "API (All properties)",
-    "url": "https://tokens.cardano.org/metadata/4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b95779726d73746f6e65",
+    "url": "https://tokens.cardano.org/metadata/x",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-all-properties",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 1090,
-    "timeWeek": 846,
-    "timeMonth": 846,
-    "timeYear": 846,
+    "time": 824,
+    "timeDay": 846,
+    "timeWeek": 819,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {}
   },
   {
     "name": "API (Specific property)",
-    "url": "https://tokens.cardano.org/metadata/4ffaa4ef3217df37c4995bb96066af4cb68dfcc66b9f2a10e0c333b95779726d73746f6e65/properties/decimals",
+    "url": "https://tokens.cardano.org/metadata/x/properties/decimals",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-specific-property",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 157,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 118,
+    "timeDay": 127,
+    "timeWeek": 117,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 155,
-    "timeWeek": 118,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 115,
+    "timeDay": 126,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   }
 ]
