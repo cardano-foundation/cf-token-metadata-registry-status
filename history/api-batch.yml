@@ -1,7 +1,7 @@
 url: https://tokens.cardano.org/metadata/query
-status: up
-code: 204
-responseTime: 100
-lastUpdated: 2025-05-19T23:08:55.943Z
+status: down
+code: 500
+responseTime: 101
+lastUpdated: 2025-05-19T23:20:07.142Z
 startTime: 2024-03-27T07:42:50.875Z
 generator: Upptime <https://github.com/upptime/upptime>
