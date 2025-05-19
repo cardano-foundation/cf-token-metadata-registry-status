@@ -4,10 +4,10 @@
     "url": "https://tokens.cardano.org/metadata/x",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-all-properties",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 718,
@@ -16,7 +16,7 @@
     "timeMonth": 1597,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2025-05-19": 17
+      "2025-05-19": 19
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://tokens.cardano.org/metadata/query",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-batch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 127,
-    "timeWeek": 128,
-    "timeMonth": 130,
+    "timeDay": 123,
+    "timeWeek": 126,
+    "timeMonth": 129,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-05-19": 27
+      "2025-05-19": 29
     }
   }
 ]
