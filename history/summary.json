@@ -4,19 +4,19 @@
     "url": "https://tokens.cardano.org/metadata/x",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-all-properties",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 650,
-    "timeDay": 646,
-    "timeWeek": 712,
-    "timeMonth": 708,
+    "timeDay": 706,
+    "timeWeek": 724,
+    "timeMonth": 712,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-05-19": 0
+      "2025-05-19": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://tokens.cardano.org/metadata/x/properties/decimals",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-specific-property",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 99,
-    "timeWeek": 127,
-    "timeMonth": 128,
+    "timeDay": 121,
+    "timeWeek": 131,
+    "timeMonth": 129,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-05-19": 0
+      "2025-05-19": 16
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://tokens.cardano.org/metadata/query",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-batch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 99,
-    "timeWeek": 127,
-    "timeMonth": 128,
-    "timeYear": 122,
+    "timeDay": 117,
+    "timeWeek": 130,
+    "timeMonth": 129,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-05-19": 0
+      "2025-05-19": 16
     }
   }
 ]
