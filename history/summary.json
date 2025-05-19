@@ -4,53 +4,59 @@
     "url": "https://tokens.cardano.org/metadata/x",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-all-properties",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
-    "timeDay": 678,
-    "timeWeek": 725,
-    "timeMonth": 711,
+    "timeDay": 646,
+    "timeWeek": 712,
+    "timeMonth": 708,
     "timeYear": 649,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-19": 0
+    }
   },
   {
     "name": "API (Specific property)",
     "url": "https://tokens.cardano.org/metadata/x/properties/decimals",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-specific-property",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 100,
-    "timeWeek": 131,
-    "timeMonth": 129,
+    "timeDay": 99,
+    "timeWeek": 127,
+    "timeMonth": 128,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-19": 0
+    }
   },
   {
     "name": "API (Batch)",
     "url": "https://tokens.cardano.org/metadata/query",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-batch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 101,
-    "timeWeek": 131,
-    "timeMonth": 130,
-    "timeYear": 123,
-    "dailyMinutesDown": {}
+    "timeDay": 99,
+    "timeWeek": 127,
+    "timeMonth": 128,
+    "timeYear": 122,
+    "dailyMinutesDown": {
+      "2025-05-19": 0
+    }
   }
 ]
