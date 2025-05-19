@@ -44,19 +44,19 @@
     "url": "https://tokens.cardano.org/metadata/query",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-batch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 130,
-    "timeWeek": 134,
+    "time": 122,
+    "timeDay": 125,
+    "timeWeek": 131,
     "timeMonth": 130,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-05-19": 16
+      "2025-05-19": 21
     }
   }
 ]
