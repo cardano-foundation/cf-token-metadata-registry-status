@@ -1,7 +1,7 @@
 url: https://tokens.cardano.org/metadata/x
-status: up
+status: degraded
 code: 204
-responseTime: 825
-lastUpdated: 2025-05-19T13:19:02.774Z
+responseTime: 28924
+lastUpdated: 2025-05-19T23:05:30.122Z
 startTime: 2024-03-27T07:42:49.252Z
 generator: Upptime <https://github.com/upptime/upptime>
