@@ -6,9 +6,9 @@
     "slug": "api-all-properties",
     "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 773,
     "timeDay": 8080,
@@ -16,7 +16,8 @@
     "timeMonth": 2147,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2025-05-19": 42
+      "2025-05-20": 2,
+      "2025-05-19": 46
     }
   },
   {
@@ -44,19 +45,20 @@
     "url": "https://tokens.cardano.org/metadata/query",
     "icon": "https://icons.duckduckgo.com/ip3/tokens.cardano.org.ico",
     "slug": "api-batch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 122,
-    "timeDay": 119,
-    "timeWeek": 123,
-    "timeMonth": 128,
-    "timeYear": 122,
+    "time": 124,
+    "timeDay": 188,
+    "timeWeek": 166,
+    "timeMonth": 145,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-05-19": 56
+      "2025-05-20": 2,
+      "2025-05-19": 60
     }
   }
 ]
